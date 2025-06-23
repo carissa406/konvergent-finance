@@ -9,7 +9,7 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 
-st.set_page_config(page_title='Client Retirement Dashboard',layout='wide')
+st.set_page_config(page_title='Client: Kyle Konvergent',layout='wide')
 
 # --- Sidebar Inputs ---
 st.sidebar.header("Tools")
@@ -70,7 +70,7 @@ for year in range(retirement_age + 1, 101):
     spending_over_time.append(next_spending)
 
 # --- Output ---
-st.markdown("<h1 style='text-align: center;'>Client Retirement Projection</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Kyle Konvergent's Retirement Projection</h1>", unsafe_allow_html=True)
 
 c1,c2, c3 = st.columns(3)
 
