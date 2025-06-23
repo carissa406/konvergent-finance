@@ -7,7 +7,6 @@ For Konvergent Wealth Partners
 import streamlit as st
 import numpy as np
 import pandas as pd
-import plotly.graph_objects as go
 
 st.set_page_config(page_title='Client: Kyle Konvergent',layout='wide')
 
