@@ -60,6 +60,7 @@ How to Use
 - Review the graphs for asset growth and spending projections.
 - Read the summary for key insights and warnings.
 - Use the top-right menu for appearance settings, printing, or rerunning the app.
+Public deployment: https://carissa406-konvergent-finance-retirement-dashboard-9nr7dd.streamlit.app/ 
 
 ------------------------------------------------------------
 
